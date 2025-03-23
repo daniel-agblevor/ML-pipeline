@@ -19,5 +19,5 @@ This project automates the end-to-end machine learning workflow, from data prepr
 
 ### 🔹 Clone the repository  
 ```bash
-git clone [(https://github.com/daniel-agblevor/ML-pipeline.git](https://github.com/daniel-agblevor/ML-pipeline)
+git clone https://github.com/daniel-agblevor/ML-pipeline.git
 cd ML pipeline
